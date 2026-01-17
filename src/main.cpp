@@ -9,8 +9,8 @@
 #endif
 
 // Credenciais do Wi-Fi
-const char* WIFI_SSID = "Resid6";
-const char* WIFI_PASS = "focafuckpancho6";
+const char* WIFI_SSID = "xxx";
+const char* WIFI_PASS = "xxx";
 
 // Configurações do OTA (Over-The-Air)
 const char* OTA_HOSTNAME = "esp32-blink";   // nome na rede
